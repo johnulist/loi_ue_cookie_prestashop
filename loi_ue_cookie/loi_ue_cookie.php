@@ -12,7 +12,7 @@ class loi_Ue_Cookie extends Module
 	{
 		$this->name = 'loi_ue_cookie';
 		$this->tab = 'Loi Ue Cookie';
-		$this->version = 1.0.0;
+		$this->version = 1.0;
 		$this->author = 'Peraudeau Nicolas';
 		$this->need_instance = 0;
 		parent::__construct();
