@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+<name>loi_ue_cookie</name>
+<displayName><![CDATA[Loi Ue Cookie]]></displayName>
+<version><![CDATA[1]]></version>
+<description><![CDATA[demander l&rsquo;autorisation explicite &agrave; l&rsquo;internaute pour utiliser des cookies.]]></description>
+<author><![CDATA[Peraudeau Nicolas]]></author>
+<tab><![CDATA[Loi Ue Cookie]]></tab>
+<confirmUninstall>Etes vous sur de vouloir supprimer le module loi_ue_cookie ?</confirmUninstall>
+<is_configurable>1</is_configurable>
+<need_instance>0</need_instance>
+<limited_countries></limited_countries>
+</module>
